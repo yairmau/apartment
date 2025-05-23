@@ -46,7 +46,7 @@ Contact Liat Mau at:
 
 ![](/images/kitchen3.jpeg)
 
-## bedroom 1
+## parents unit
 
 ![](/images/bedroomC1.jpeg)
 
@@ -55,13 +55,9 @@ Contact Liat Mau at:
 ![](/images/bedroomC3.jpeg)
 
 
-## bedroom 1's bathroom
+## parents unit bathroom
 
-![](/images/bathroomB1.jpeg)
-
----
-
-![](/images/bathroomB2.jpeg)
+![](/images/parents-bathroom.jpeg)
 
 ## bedroom 2
 
@@ -73,11 +69,7 @@ Contact Liat Mau at:
 
 ## bathroom 2
 
-![](/images/bathroomA.jpeg)
-
----
- 
-![](/images/bathroomA2.jpeg)
+![](/images/kids-bathroom.jpeg)
 
 ## corridor
 
