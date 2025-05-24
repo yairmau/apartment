@@ -3,13 +3,13 @@ title: "apartment"
 image: "/images/livingroom.jpeg"
 ---
 
-* our family will be on sabbatical from August 2025 to August 2026
-* apartment in North Rehovot *just next* to <a href="https://maps.app.goo.gl/CN8fj3u9LUK2ibsc9" target="_blank">Bechor Levi</a> school and Weizmann Institute
-* just a few minutes away from train station
-* fully furnished
-* parents unit with a small walk-in closet and a small full bathroom
-* 2 more bedrooms and a second full bathroom
-* super quiet street
+* Our family will be on sabbatical from August 2025 to August 2026.
+* Apartment in North Rehovot, right next to <a href="https://maps.app.goo.gl/CN8fj3u9LUK2ibsc9" target="_blank">Bechor Levi</a> school and the Weizmann Institute.
+* A few minutes from the train station.
+* Fully furnished.
+* Parents' unit with a small walk-in closet and a full bathroom.
+* Two more bedrooms and a second full bathroom.
+* Very quiet street.
 
 ## contact
 
@@ -25,14 +25,10 @@ Contact Liat Mau at:
 
 ![](/images/livingroomB.jpeg)
 
----
-
-<!-- ![](/images/livingroom2.jpeg) -->
 
 ---
 
 ![](/images/livingroom3.jpeg)
-
 
 
 ## dining room
@@ -51,7 +47,7 @@ Contact Liat Mau at:
 
 ![](/images/kitchen3.jpeg)
 
-## parents unit
+## parents' unit
 
 ![](/images/bedroomC1.jpeg)
 
@@ -60,7 +56,7 @@ Contact Liat Mau at:
 ![](/images/bedroomC3.jpeg)
 
 
-## parents unit bathroom
+## parents' unit bathroom
 
 ![](/images/parents-bathroom.jpeg)
 
