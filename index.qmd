@@ -1,5 +1,6 @@
 ---
 title: "apartment"
+image: "/images/livingroom.jpeg"
 ---
 
 * our family will be on sabbatical from August 2025 to August 2026
@@ -18,11 +19,15 @@ Contact Liat Mau at:
 
 ## living room
 
-![](/images/livingroom1.jpeg)
+![](/images/livingroom.jpeg)
 
 ---
 
-![](/images/livingroom2.jpeg)
+![](/images/livingroomB.jpeg)
+
+---
+
+<!-- ![](/images/livingroom2.jpeg) -->
 
 ---
 
